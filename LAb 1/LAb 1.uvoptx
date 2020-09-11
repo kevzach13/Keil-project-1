@@ -252,8 +252,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\Addtwo64.s</PathWithFileName>
-      <FilenameWithoutPath>Addtwo64.s</FilenameWithoutPath>
+      <PathWithFileName>.\Add_96bits.s</PathWithFileName>
+      <FilenameWithoutPath>Add_96bits.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

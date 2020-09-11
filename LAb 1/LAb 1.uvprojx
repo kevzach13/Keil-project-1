@@ -404,9 +404,9 @@
               <FilePath>.\core_cm3_constant.s</FilePath>
             </File>
             <File>
-              <FileName>Addtwo64.s</FileName>
+              <FileName>Add_96bits.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\Addtwo64.s</FilePath>
+              <FilePath>.\Add_96bits.s</FilePath>
             </File>
           </Files>
         </Group>
